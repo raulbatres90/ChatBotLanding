@@ -1,5 +1,12 @@
 export const translations = {
   es: {
+    heroTitleBanner: "Funciona para tu negocio, sea cual sea: ",
+    business1: "Restaurantes",
+    business2: "Tiendas online",
+    business3: "Barberías",
+    business4: "Gimnasios",
+    business5: "Clínicas",
+    business6: "Inmobiliarias",
     heroTitle: "Automatiza la atención de tu negocio con IA",
     heroSubtitle:
       "PulseChatbot responde a tus clientes 24/7 por WhatsApp y web, sin perder ventas ni tiempo.",
@@ -27,6 +34,13 @@ export const translations = {
   },
 
   en: {
+    heroTitleBanner: "Works for your business, whatever it is: ",
+    business1: "Restaurants",
+    business2: "Retail stores",
+    business3: "Barbershops",
+    business4: "Gyms",
+    business5: "Clinics",
+    business6: "Real estate",
     heroTitle: "Automate your business customer support with AI",
     heroSubtitle:
       "PulseChatbot responds to your customers 24/7 via WhatsApp and web without losing sales.",
